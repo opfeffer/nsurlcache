@@ -118,7 +118,6 @@
                                         </variation>
                                     </imageView>
                                 </subviews>
-                                <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                 <constraints>
                                     <constraint firstItem="BZ0-fj-HFC" firstAttribute="height" secondItem="fK9-0U-2DW" secondAttribute="height" id="2h0-Hh-rcV"/>
                                     <constraint firstItem="esl-D5-BXB" firstAttribute="width" secondItem="FF8-Cj-Ped" secondAttribute="width" multiplier="0.333333" id="4Fw-pG-rpB"/>
