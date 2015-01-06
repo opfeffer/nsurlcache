@@ -15,6 +15,7 @@
 		A2052AAD1A5B5E6B00CE141A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2052AAB1A5B5E6B00CE141A /* LaunchScreen.xib */; };
 		A2052AB91A5B5E6B00CE141A /* NSURLSession_NSURLCacheTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2052AB81A5B5E6B00CE141A /* NSURLSession_NSURLCacheTests.swift */; };
 		A28721551A5B88B0000DDB2C /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = A28721541A5B88B0000DDB2C /* README.md */; };
+		A28721571A5B89AD000DDB2C /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = A28721561A5B89AD000DDB2C /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		A2052AB71A5B5E6B00CE141A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A2052AB81A5B5E6B00CE141A /* NSURLSession_NSURLCacheTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSURLSession_NSURLCacheTests.swift; sourceTree = "<group>"; };
 		A28721541A5B88B0000DDB2C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A28721561A5B89AD000DDB2C /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				A28721541A5B88B0000DDB2C /* README.md */,
+				A28721561A5B89AD000DDB2C /* screenshot.png */,
 				A2052A9C1A5B5E6B00CE141A /* NSURLSession+NSURLCache */,
 				A2052AB51A5B5E6B00CE141A /* NSURLSession+NSURLCacheTests */,
 				A2052A9B1A5B5E6B00CE141A /* Products */,
@@ -201,6 +204,7 @@
 				A2052AA81A5B5E6B00CE141A /* Main.storyboard in Resources */,
 				A2052AAD1A5B5E6B00CE141A /* LaunchScreen.xib in Resources */,
 				A2052AAA1A5B5E6B00CE141A /* Images.xcassets in Resources */,
+				A28721571A5B89AD000DDB2C /* screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
