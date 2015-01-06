@@ -140,7 +140,7 @@ class ViewController: UIViewController, UITableViewDataSource {
     
     func updateCacheStats() {
         cacheStatMemory.text = "Memory: \(cache.currentMemoryUsage)/\(cache.memoryCapacity) (\(cache.currentMemoryUsage/cache.memoryCapacity)%)"
-        cacheStatDisk.text = "Memory: \(Double(cache.currentDiskUsage))/\(Double(cache.diskCapacity)) (\(Double(cache.currentDiskUsage)/Double(cache.diskCapacity)*100)%)"
+        cacheStatDisk.text = "Disk:       \(Double(cache.currentDiskUsage))/\(Double(cache.diskCapacity)) (\(Double(cache.currentDiskUsage)/Double(cache.diskCapacity)*100)%)"
     }
     
     
