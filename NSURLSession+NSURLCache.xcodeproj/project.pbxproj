@@ -14,6 +14,7 @@
 		A2052AAA1A5B5E6B00CE141A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2052AA91A5B5E6B00CE141A /* Images.xcassets */; };
 		A2052AAD1A5B5E6B00CE141A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2052AAB1A5B5E6B00CE141A /* LaunchScreen.xib */; };
 		A2052AB91A5B5E6B00CE141A /* NSURLSession_NSURLCacheTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2052AB81A5B5E6B00CE141A /* NSURLSession_NSURLCacheTests.swift */; };
+		A28721551A5B88B0000DDB2C /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = A28721541A5B88B0000DDB2C /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		A2052AB21A5B5E6B00CE141A /* NSURLSession+NSURLCacheTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "NSURLSession+NSURLCacheTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2052AB71A5B5E6B00CE141A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A2052AB81A5B5E6B00CE141A /* NSURLSession_NSURLCacheTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSURLSession_NSURLCacheTests.swift; sourceTree = "<group>"; };
+		A28721541A5B88B0000DDB2C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		A2052A911A5B5E6B00CE141A = {
 			isa = PBXGroup;
 			children = (
+				A28721541A5B88B0000DDB2C /* README.md */,
 				A2052A9C1A5B5E6B00CE141A /* NSURLSession+NSURLCache */,
 				A2052AB51A5B5E6B00CE141A /* NSURLSession+NSURLCacheTests */,
 				A2052A9B1A5B5E6B00CE141A /* Products */,
@@ -217,6 +220,7 @@
 			files = (
 				A2052AA51A5B5E6B00CE141A /* ViewController.swift in Sources */,
 				A2052AA01A5B5E6B00CE141A /* AppDelegate.swift in Sources */,
+				A28721551A5B88B0000DDB2C /* README.md in Sources */,
 				A2052AA31A5B5E6B00CE141A /* NSURLSession_NSURLCache.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -409,6 +413,7 @@
 				A2052ABE1A5B5E6B00CE141A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A2052ABF1A5B5E6B00CE141A /* Build configuration list for PBXNativeTarget "NSURLSession+NSURLCacheTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +422,7 @@
 				A2052AC11A5B5E6B00CE141A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
